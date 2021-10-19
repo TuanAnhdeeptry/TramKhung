@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Các bạn yêu của TA',
     introDesc: `Bởi vì sự giận dỗi mà TA đã out nhóm, vì vậy nhấn Ok tao mới nói tiếp được`,
     btnIntro: 'Ok',
-    title: 'Hãy bỏ qua cho TA nha 🥰',
+    title: 'Hãy bỏ qua cho Tứng Anh nhee 🥰',
     desc: 'Ép buộc phải bỏ qua ',
     btnYes: 'Sao mà hông bỏ được',
     btnNo: 'Hôngg',
