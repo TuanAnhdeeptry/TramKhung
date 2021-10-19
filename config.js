@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "CacbanyeucuaTA",
     introTitle: 'Các bạn yêu của TA',
-    introDesc: `Bởi vì sự giận dỗi mà TA đẫ out nhóm, vì vậy nhấn Ok tao mới nói tiếp được`,
+    introDesc: `Bởi vì sự giận dỗi mà TA đã out nhóm, vì vậy nhấn Ok tao mới nói tiếp được`,
     btnIntro: 'Ok',
     title: 'Hãy bỏ qua cho TA nha 🥰',
     desc: 'Ép buộc phải bỏ qua ',
