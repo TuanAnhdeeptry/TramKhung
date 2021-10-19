@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Hãy bỏ qua cho TA nha 🥰',
     desc: 'Ép buộc phải bỏ qua ',
     btnYes: 'Sao mà hông bỏ được',
-    btnNo: 'Đéo',
+    btnNo: 'Hôngg',
     question: 'Tao biết là sẽ bỏ qua cho tao mà, yêuuuu',
     btnReply: 'Gửi cho TA đẹp trai',
     reply: 'Tại vì mày đẹp trai quá nên bỏ qua đó',
